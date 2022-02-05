@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/5h4nk3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5h4nk3r" height="30" width="40" /></a>
 <a href="https://fb.com/shank.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shank.404" height="30" width="40" /></a>
-<a href="https://instagram.com/5h4nk3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5h4nk3r" height="30" width="40" /></a>
+<a href="https://instagram.com/3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5h4nk3r" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shankar" height="30" width="40" /></a>
 <a href="https://discord.gg/5H4NKER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5H4NKER" height="30" width="40" /></a>
 </p>
